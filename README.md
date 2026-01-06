@@ -18,8 +18,8 @@ The goal of this project is to create a decision-support system that helps users
 
 🧩 Current Status
 
-✅ Data cleaning and preprocessing
+🔄 Data cleaning and preprocessing (in progress)
 
-🔄 Exploratory Data Analysis (in progress)
+⏳ Exploratory Data Analysis (planned)
 
 ⏳ ML-based recommendation (planned)
