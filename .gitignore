@@ -1,0 +1,6 @@
+# Sirf inko ignore karo
+*.html
+*.csv
+*.zip
+*.log
+/raw_data/
