@@ -9,7 +9,7 @@ Smartphone data available online is often inconsistent in format, incomplete, or
 * **Creating cleaned**, purpose-specific datasets.
 * **Separating analytical logic** from UI-oriented information.
 
-The objective is not to support informed and transparent decision-making, not just to predict trends.
+The objective is to facilitate informed and transparent decision-making by providing unbiased technical insights, moving beyond simple trend prediction.
 
 ## Dataset Summary
 * **Scale:** 1,268 unique smartphone models.
